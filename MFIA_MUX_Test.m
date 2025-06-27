@@ -6,7 +6,7 @@ t = 0:1/fsampling:5/fmecha;          % Time vector (1 second duration)
 
 % Sine wave parameters
 A1 = 0.75;                 % Amplitude of the first sine wave
-A2 = 0.05;               % Amplitude of the second sine wave
+A2 = 0.01;               % Amplitude of the second sine wave
 offset1 = 1;           % Offset of the first sine wave
 offset2 = 0;         % Offset of the second sine wave
 phase_shift = pi;      % Phase shift (180 degrees)
